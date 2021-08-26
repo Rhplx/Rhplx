@@ -6,7 +6,7 @@
 ````
 <br>
 <br>
-### Stack :smiling_face_with_three_hearts:
+<h2 Stack :smiling_face_with_three_hearts: </h2>
 <p align="center">
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
