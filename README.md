@@ -17,3 +17,6 @@
 </p><br>
 
 <h2> Lets Connect 🤝🏻 </h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/aphexbug/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-aphexbug-blue?style=flat-square&logo=linkedin"></a>
+</p><br>
