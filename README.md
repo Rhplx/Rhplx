@@ -7,7 +7,6 @@
 <div style="text-align:center;">
 <h2>Primary in</h2></div>
 <p align="center">
-
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
 <a href="https://github.com/priyanshumay">
