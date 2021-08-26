@@ -19,4 +19,5 @@
 <h2> Lets Connect 🤝🏻 </h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/aphexbug/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aphexbug-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:im.ur.worst.enemy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-im.ur.worst.enemy@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 </p><br>
