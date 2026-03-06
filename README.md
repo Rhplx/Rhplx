@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating software since 2019<br>📚 I'm currently learning Python<br>🎯 My goal is to be a FullStack Developer<br>🎲 Fun fact: I love Apple</p>
+<p align="left">✨ Creating software since 2019<br>📚 I'm currently learning MLOPS<br>🎯 Looking into you AI</p>
 
 ###
 
