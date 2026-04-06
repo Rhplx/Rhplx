@@ -9,6 +9,5 @@
                                                            
 ```
 
-
-- Learning AI through python
-- Learning Swift
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=Claude&logoColor=white)
